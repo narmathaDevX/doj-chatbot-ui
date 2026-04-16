@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOJ Legal AI – Analytics Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<header class="header">
+    <div>
+        <span class="brand">Department of Justice</span>
+        <span class="sub-brand">AI Monitoring Dashboard</span>
+    </div>
+    <nav>
+        <a href="home.html">Home</a>
+        <a href="chatbot.html">Chatbot</a>
+    </nav>
+</header>
+
+<div class="analytics-container">
+
+    <div class="analytics-header">
+        <h1>Analytics Dashboard</h1>
+        <button class="primary-btn" onclick="loadAnalytics()">Refresh Data</button>
+    </div>
+
+    <!-- KPI CARDS -->
+    <div class="kpi-grid">
+        <div class="kpi-card">
+            <p>Total Queries</p>
+            <h2 id="totalQueries">0</h2>
+        </div>
+        <div class="kpi-card">
+            <p>Top Category</p>
+            <h2 id="topCategory">-</h2>
+        </div>
+        <div class="kpi-card">
+            <p>Total Categories</p>
+            <h2 id="totalCategories">0</h2>
+        </div>
+    </div>
+
+    <!-- CHART SECTION -->
+    <div class="chart-card">
+        <canvas id="analyticsChart"></canvas>
+    </div>
+
+</div>
+
+<script>
+let chartInstance = null;
+
+async function loadAnalytics() {
+    try {
+        const response = await fetch("http://127.0.0.1:5000/analytics");
+        const data = await response.json();
+
+        const labels = Object.keys(data);
+        const values = Object.values(data);
+
+        // KPI Calculations
+        const totalQueries = values.reduce((a, b) => a + b, 0);
+        const maxIndex = values.indexOf(Math.max(...values));
+        const topCategory = labels[maxIndex];
+
+        document.getElementById("totalQueries").innerText = totalQueries;
+        document.getElementById("topCategory").innerText = topCategory;
+        document.getElementById("totalCategories").innerText = labels.length;
+
+        const ctx = document.getElementById("analyticsChart").getContext("2d");
+
+        if (chartInstance) {
+            chartInstance.destroy();
+        }
+
+        chartInstance = new Chart(ctx, {
+            type: "bar",
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: "Query Distribution",
+                    data: values,
+                    backgroundColor: "#3b82f6"
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: { display: false }
+                },
+                scales: {
+                    x: {
+                        ticks: { color: "#cbd5e1" },
+                        grid: { color: "#273449" }
+                    },
+                    y: {
+                        ticks: { color: "#cbd5e1" },
+                        grid: { color: "#273449" }
+                    }
+                }
+            }
+        });
+
+    } catch (error) {
+        console.error("Analytics Load Error:", error);
+    }
+}
+
+loadAnalytics();
+</script>
+
+</body>
+</html>

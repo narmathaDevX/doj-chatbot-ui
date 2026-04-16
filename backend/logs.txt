@@ -1,0 +1,73 @@
+2026-02-28 21:17:12.510124 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:22:29.058323 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:26:57.705331 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:30:22.571160 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:36:01.150581 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:44:20.900110 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:55:15.574298 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:55:21.068354 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:55:25.057919 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:55:33.351239 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:55:45.400606 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:55:54.929183 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:56:18.052170 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:56:21.786246 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 21:56:56.464171 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 22:42:35.458598 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-02-28 23:04:13.269274 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-03-02 18:09:17.140614 - i wish to know about divorce procedures.
+2026-03-02 18:09:44.340322 - what can you tell me then?
+2026-03-02 18:10:18.943251 - I was arrested and not produced before a magistrate within 24 hours. What law applies?
+2026-03-02 19:09:59.184456 - Police are refusing to register my FIR for theft. What can I do?
+2026-03-02 19:10:09.214242 - How long can police keep someone in custody without producing them before a magistrate?
+2026-03-02 19:10:20.875474 - Can police arrest a woman at night?
+2026-03-02 19:10:30.229574 - What is the difference between bailable and non-bailable offence?
+2026-03-02 19:10:38.655401 - What is anticipatory bail and when can it be used?
+2026-03-02 19:10:44.957691 - What is mutual consent divorce and how does it work?
+2026-03-02 19:10:52.572747 - Can a wife claim maintenance if the husband is not supporting her?
+2026-03-02 19:11:00.643156 - What legal action can a woman take in case of domestic violence?
+2026-03-02 19:11:07.644243 - I lost money in an online fraud. Where should I report it?
+2026-03-02 19:11:14.306399 - What happens if a cheque bounces due to insufficient funds?
+2026-03-02 19:14:45.609398 - localhost:5500
+2026-03-02 19:14:56.157684 - Police are refusing to register my FIR for theft. What can I do?
+2026-03-02 19:15:04.057578 - How long can police keep someone in custody without producing them before a magistrate?
+2026-03-02 19:15:11.677874 - Can police arrest a woman at night?
+2026-03-02 19:15:25.092016 - What is the difference between bailable and non-bailable offence?
+2026-03-02 19:15:32.855122 - What is anticipatory bail and when can it be used?
+2026-03-02 19:15:39.505012 - What is mutual consent divorce and how does it work?
+2026-03-02 19:15:47.252657 - Can a wife claim maintenance if the husband is not supporting her?
+2026-03-02 19:15:53.312444 - What legal action can a woman take in case of domestic violence?
+2026-03-02 19:15:59.624226 - I lost money in an online fraud. Where should I report it?
+2026-03-02 19:16:05.984720 - What happens if a cheque bounces due to insufficient funds?
+2026-03-02 19:26:17.468463 - Police are refusing to register my FIR for theft. What can I do?
+2026-03-02 19:26:25.924576 - How long can police keep someone in custody without producing them before a magistrate?
+2026-03-02 19:26:31.848408 - Can police arrest a woman at night?
+2026-03-02 19:26:39.653295 - What is the difference between bailable and non-bailable offence?
+2026-03-02 19:26:45.397271 - What is anticipatory bail and when can it be used?
+2026-03-02 19:31:08.454255 - What is mutual consent divorce and how does it work?
+2026-03-02 19:31:14.609665 - Can a wife claim maintenance if the husband is not supporting her?
+2026-03-02 19:31:22.199582 - What legal action can a woman take in case of domestic violence?
+2026-03-02 19:31:29.636157 - I lost money in an online fraud. Where should I report it?
+2026-03-02 19:32:00.612896 - What happens if a cheque bounces due to insufficient funds?
+2026-03-02 19:36:39.143609 - Police are refusing to register my FIR for theft. What can I do?
+2026-03-02 19:36:45.985406 - How long can police keep someone in custody without producing them before a magistrate?
+2026-03-02 19:36:51.331926 - Can police arrest a woman at night?
+2026-03-02 19:36:56.422314 - What is the difference between bailable and non-bailable offence?
+2026-03-02 19:37:02.807505 - What is anticipatory bail and when can it be used?
+2026-03-02 19:37:10.156062 - What is mutual consent divorce and how does it work?
+2026-03-02 19:37:16.288551 - Can a wife claim maintenance if the husband is not supporting her?
+2026-03-02 19:38:41.868721 - What legal action can a woman take in case of domestic violence?
+2026-03-02 19:38:51.878650 - I lost money in an online fraud. Where should I report it?
+2026-03-02 19:38:58.637604 - What happens if a cheque bounces due to insufficient funds?
+2026-03-02 19:47:09.570684 - Police are refusing to register my FIR for theft. What can I do?
+2026-03-02 19:47:17.057109 - Police are refusing to register my FIR for theft. What can I do?
+2026-03-02 19:47:23.575164 - How long can police keep someone in custody without producing them before a magistrate?
+2026-03-02 19:47:28.357901 - Can police arrest a woman at night?
+2026-03-02 19:47:33.955997 - What is the difference between bailable and non-bailable offence?
+2026-03-02 19:47:38.810417 - What is anticipatory bail and when can it be used?
+2026-03-02 19:47:43.261256 - What legal action can a woman take in case of domestic violence?
+2026-03-02 19:47:48.516969 - Can a wife claim maintenance if the husband is not supporting her?
+2026-03-02 19:47:53.016107 - Can a wife claim maintenance if the husband is not supporting her?
+2026-03-02 19:48:00.108726 - I lost money in an online fraud. Where should I report it?
+2026-03-02 19:48:04.390325 - What happens if a cheque bounces due to insufficient funds?
+2026-03-02 19:48:09.176827 - What are my fundamental rights if I am arrested?

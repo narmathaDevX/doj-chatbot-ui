@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOJ Legal Chatbot</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="header">
+    <span class="brand">DOJ Legal Chatbot</span>
+    <nav>
+        <a href="home.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="help.html">Help</a>
+        <a href="analytics.html">Analytics</a>
+    </nav>
+</header>
+
+<main class="chat-container">
+
+    <div class="chat-box" id="chatBox">
+        <div class="message bot">
+            Hello 👋 I’m the DOJ Legal Assistance Chatbot.<br>
+            Please select a mode and enter your legal query.
+        </div>
+    </div>
+
+    <div class="input-area">
+
+        <!-- MODE TOGGLE -->
+        <div class="mode-toggle">
+            <button id="strictBtn" class="mode-btn active" onclick="setMode('strict')">
+                Strict
+            </button>
+            <button id="extendedBtn" class="mode-btn" onclick="setMode('extended')">
+                Extended
+            </button>
+        </div>
+
+        <input 
+            type="text" 
+            id="userInput" 
+            placeholder="Type your legal question here..." 
+            onkeydown="handleKey(event)"
+        />
+
+        <button onclick="sendMessage()">Send</button>
+
+    </div>
+
+</main>
+
+<script src="js/chatbot.js"></script>
+</body>
+</html>

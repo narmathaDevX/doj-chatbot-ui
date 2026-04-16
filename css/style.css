@@ -1,0 +1,323 @@
+/* =========================================================
+   GLOBAL
+========================================================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    background:
+        radial-gradient(1200px circle at top left, #1a2436 0%, #0f172a 45%, #0b1220 100%);
+    color: #e2e8f0;
+}
+
+/* =========================================================
+   HEADER
+========================================================= */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 50px;
+    background-color: rgba(15, 23, 42, 0.85);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid #1f2937;
+}
+
+.brand {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.sub-brand {
+    display: block;
+    font-size: 12px;
+    color: #94a3b8;
+}
+
+.header nav a {
+    color: #9da7b3;
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: 14px;
+    transition: 0.2s;
+}
+
+.header nav a:hover {
+    color: #ffffff;
+}
+
+/* =========================================================
+   BUTTON (UNIFIED)
+========================================================= */
+
+.primary-btn {
+    padding: 10px 18px;
+    background-color: #3b82f6;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 6px;
+    font-size: 14px;
+    transition: 0.2s ease;
+}
+
+.primary-btn:hover {
+    background-color: #2563eb;
+}
+
+/* =========================================================
+   MAIN LANDING SECTION
+========================================================= */
+
+.main {
+    max-width: 760px;
+    margin: 120px auto;
+    padding: 40px 30px;
+    background: rgba(30, 41, 59, 0.6);
+    border: 1px solid #273449;
+    border-radius: 14px;
+    backdrop-filter: blur(6px);
+}
+
+.main h1 {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.main p {
+    font-size: 17px;
+    line-height: 1.6;
+    color: #9da7b3;
+    max-width: 640px;
+    margin-bottom: 40px;
+}
+
+/* =========================================================
+   CHATBOT
+========================================================= */
+
+.chat-container {
+    height: calc(100vh - 70px);
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-box {
+    flex: 1;
+    padding: 30px;
+    overflow-y: auto;
+}
+
+/* MESSAGES */
+
+.message {
+    max-width: 70%;
+    padding: 12px 16px;
+    margin-bottom: 15px;
+    border-radius: 12px;
+    font-size: 15px;
+    line-height: 1.6;
+    white-space: pre-line;
+    animation: fadeIn 0.25s ease-in;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.bot {
+    background: rgba(30, 41, 59, 0.8);
+    border: 1px solid #273449;
+    align-self: flex-start;
+}
+
+.user {
+    background-color: #3b82f6;
+    align-self: flex-end;
+}
+
+.time {
+    display: block;
+    font-size: 11px;
+    margin-top: 6px;
+    opacity: 0.6;
+}
+
+/* INPUT AREA */
+
+.input-area {
+    display: flex;
+    align-items: center;
+    padding: 15px 20px;
+    border-top: 1px solid #1f2937;
+    background-color: rgba(15, 23, 42, 0.9);
+}
+
+.mode-toggle {
+    display: flex;
+    margin-right: 12px;
+}
+
+.mode-btn {
+    padding: 8px 14px;
+    background-color: #1e293b;
+    color: #9da7b3;
+    border: 1px solid #273449;
+    cursor: pointer;
+    font-size: 13px;
+    transition: 0.2s ease;
+}
+
+.mode-btn:first-child {
+    border-radius: 6px 0 0 6px;
+}
+
+.mode-btn:last-child {
+    border-radius: 0 6px 6px 0;
+}
+
+.mode-btn.active {
+    background-color: #3b82f6;
+    color: #ffffff;
+    border-color: #3b82f6;
+}
+
+.mode-btn:hover {
+    background-color: #334155;
+}
+
+.input-area input {
+    flex: 1;
+    padding: 12px;
+    background-color: #0b1220;
+    border: 1px solid #273449;
+    color: #e2e8f0;
+    font-size: 14px;
+    border-radius: 6px;
+    outline: none;
+}
+
+.input-area > button {
+    margin-left: 10px;
+    padding: 12px 20px;
+    background-color: #3b82f6;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.input-area > button:hover {
+    background-color: #2563eb;
+}
+
+/* =========================================================
+   ABOUT / HELP
+========================================================= */
+
+.about-container,
+.help-container {
+    max-width: 900px;
+    margin: 80px auto;
+    padding: 0 25px;
+}
+
+.about-container h1,
+.help-container h1 {
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+.about-container section,
+.help-section {
+    margin-bottom: 35px;
+}
+
+.about-container h2,
+.help-section h2 {
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+
+.about-container p,
+.help-section p,
+.about-container li,
+.help-section li {
+    font-size: 15px;
+    line-height: 1.7;
+    color: #9da7b3;
+}
+
+/* =========================================================
+   ANALYTICS
+========================================================= */
+
+.analytics-container {
+    width: 1100px;
+    max-width: 95%;
+    margin: 60px auto;
+}
+
+.analytics-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 35px;
+}
+
+.analytics-header h1 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.kpi-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    margin-bottom: 40px;
+}
+
+.kpi-card {
+    background: rgba(30, 41, 59, 0.75);
+    border: 1px solid #273449;
+    padding: 24px;
+    border-radius: 12px;
+    backdrop-filter: blur(6px);
+    transition: 0.2s ease;
+}
+
+.kpi-card:hover {
+    transform: translateY(-3px);
+    border-color: #3b82f6;
+}
+
+.kpi-card p {
+    font-size: 12px;
+    color: #94a3b8;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    margin-bottom: 10px;
+}
+
+.kpi-card h2 {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.chart-card {
+    background: rgba(30, 41, 59, 0.8);
+    border: 1px solid #273449;
+    padding: 35px;
+    border-radius: 12px;
+    backdrop-filter: blur(6px);
+}

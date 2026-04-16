@@ -1,0 +1,260 @@
+================ FIR & POLICE PROCEDURE =================
+
+Section 154 CrPC defines FIR (First Information Report) as information relating to the commission of a cognizable offence recorded by a police officer.
+
+A cognizable offence is one in which police may arrest without a warrant and begin investigation without prior court approval.
+
+A non-cognizable offence requires court permission before investigation.
+
+Zero FIR may be filed at any police station regardless of territorial jurisdiction and later transferred to the appropriate police station.
+
+A copy of the FIR must be provided free of cost to the informant.
+
+If police refuse to register an FIR, a complaint may be made to the Superintendent of Police under Section 154(3) CrPC.
+
+If police still fail to act, a Magistrate may order investigation under Section 156(3) CrPC.
+
+After registration of FIR, police investigate the matter under Section 156 CrPC.
+
+After investigation, police file a charge sheet under Section 173 CrPC if evidence is sufficient.
+
+Theft is a cognizable offence and requires registration of an FIR.
+
+
+================ ARREST & POLICE POWERS =================
+
+Police may arrest without warrant in cognizable offences.
+
+Police cannot arrest arbitrarily and must follow legal procedure.
+
+Article 21 guarantees the Right to Life and Personal Liberty.
+
+Article 22 protects individuals against arbitrary arrest and detention.
+
+Article 22(1) provides the right to be informed of the grounds of arrest.
+
+Article 22(1) provides the right to consult and be defended by a lawyer.
+
+Article 22(2) requires production before a magistrate within 24 hours of arrest, excluding travel time.
+
+Section 57 CrPC prohibits detention beyond 24 hours without magistrate authorization.
+
+Section 167 CrPC governs remand when investigation cannot be completed within 24 hours.
+
+Detention beyond 24 hours without court approval may amount to illegal detention.
+
+Police must prepare an arrest memo and inform a relative or friend of the arrested person.
+
+An arrested person has the right to medical examination.
+
+Women should not ordinarily be arrested after sunset except in exceptional circumstances.
+
+Juveniles must be dealt with under the Juvenile Justice Act and not treated as adult offenders.
+
+
+================ BAIL & RELEASE =================
+
+Bailable offences allow bail as a matter of right.
+
+In bailable offences, police or court must grant bail upon compliance with conditions.
+
+Non-bailable offences require court discretion for grant of bail.
+
+Section 437 CrPC governs bail in non-bailable offences by Magistrates.
+
+Section 438 CrPC provides for anticipatory bail before arrest.
+
+Section 439 CrPC gives special bail powers to High Courts and Sessions Courts.
+
+Courts may impose conditions while granting bail.
+
+Bail may be cancelled if conditions are violated.
+
+A person may apply for regular bail after arrest.
+
+
+================ WHAT TO DO IF RIGHTS ARE VIOLATED =================
+
+If police refuse to register an FIR, approach the Superintendent of Police under Section 154(3) CrPC.
+
+If illegal detention occurs, a writ of Habeas Corpus may be filed before High Court under Article 226 or Supreme Court under Article 32.
+
+Violation of Fundamental Rights may be challenged in constitutional courts.
+
+Legal aid services are available for persons who cannot afford a lawyer.
+
+District Legal Services Authorities provide free legal aid.
+
+
+================ COURT SYSTEM & REMEDIES =================
+
+The hierarchy of courts in India includes:
+- Supreme Court of India
+- High Courts
+- District Courts
+- Magistrate Courts
+
+Article 32 allows citizens to approach the Supreme Court for enforcement of Fundamental Rights.
+
+Article 226 empowers High Courts to issue writs.
+
+Judicial review allows courts to examine constitutionality of laws and government actions.
+
+Appeals from lower courts may be filed in higher courts according to procedure.
+
+
+================ CIVIL LAW BASICS =================
+
+Civil cases involve disputes between individuals or organizations over legal rights and obligations.
+
+Common civil remedies include damages, injunction, specific performance, rescission of contract, and declaratory relief.
+
+Damages refer to monetary compensation awarded by a court.
+
+An injunction is a court order directing a party to do or stop doing a specific act.
+
+Specific performance requires a party to perform contractual obligations.
+
+Rescission cancels a contract and restores parties to original position.
+
+In criminal cases, the burden of proof is beyond reasonable doubt.
+
+In civil cases, the burden of proof is based on preponderance of probabilities.
+
+
+================ FUNDAMENTAL RIGHTS =================
+
+Fundamental Rights include:
+
+Article 14 – Right to Equality before law.
+
+Article 19 – Right to Freedom including speech and expression.
+
+Article 20 – Protection in respect of conviction for offences.
+
+Article 21 – Protection of life and personal liberty.
+
+Article 22 – Protection against arbitrary arrest and detention.
+
+Article 32 – Right to Constitutional Remedies.
+
+Violation of Fundamental Rights may be challenged before Supreme Court under Article 32 or High Courts under Article 226.
+
+================ FAMILY LAW & DIVORCE =================
+
+Divorce laws in India vary depending on religion and personal laws.
+
+Under the Hindu Marriage Act, 1955, divorce may be granted on grounds such as cruelty, desertion, adultery, conversion, mental disorder, and other specified grounds.
+
+Divorce by mutual consent is available under Section 13B of the Hindu Marriage Act.
+
+In mutual consent divorce, both spouses must agree to dissolve the marriage and file a joint petition before the Family Court.
+
+A cooling-off period of six months is generally required in mutual consent divorce, though courts may waive it in certain cases.
+
+In contested divorce, one spouse files a petition and must prove legal grounds before the court.
+
+Under Muslim law, divorce may occur through Talaq, Khula, or judicial divorce depending on circumstances.
+
+Under the Special Marriage Act, 1954, interfaith marriages may seek divorce under specified grounds.
+
+Maintenance may be claimed under Section 125 CrPC by a wife, child, or parents who are unable to maintain themselves.
+
+Under the Hindu Marriage Act, courts may grant permanent alimony and maintenance.
+
+Child custody is decided based on the welfare and best interest of the child.
+
+Domestic violence victims may seek protection orders, residence orders, and maintenance under the Protection of Women from Domestic Violence Act, 2005.
+
+Family Courts handle divorce, custody, and maintenance matters.
+
+A decree of divorce is granted only after court proceedings and satisfaction of legal grounds.
+
+================ DOMESTIC VIOLENCE & WOMEN’S RIGHTS =================
+
+The Protection of Women from Domestic Violence Act, 2005 protects women from physical, emotional, verbal, economic, and sexual abuse.
+
+A woman may seek protection orders, residence orders, maintenance, and compensation under this Act.
+
+A complaint may be filed before a Magistrate or through a Protection Officer.
+
+Domestic violence complaints may also be lodged with police.
+
+Section 498A IPC deals with cruelty by husband or relatives of husband.
+
+Cruelty includes harassment related to unlawful demands such as dowry.
+
+Dowry harassment is a punishable offence under Indian law.
+
+A woman has the right to reside in the shared household even if she does not own the property.
+
+Stridhan refers to property or gifts given to a woman at the time of marriage and remains her absolute property.
+
+Failure to return Stridhan may amount to criminal breach of trust.
+
+
+================ MAINTENANCE & CHILD CUSTODY =================
+
+Section 125 CrPC allows a wife, child, or parents who are unable to maintain themselves to claim maintenance.
+
+Maintenance may be granted if the husband neglects or refuses to provide financial support.
+
+Permanent alimony may be granted under the Hindu Marriage Act.
+
+Child custody is determined based on the welfare and best interests of the child.
+
+Courts may grant physical custody to one parent and visitation rights to the other.
+
+Both parents may be required to contribute financially to the child’s upbringing.
+
+
+================ PROPERTY & MATRIMONIAL RIGHTS =================
+
+Marital property division depends on personal laws and court discretion.
+
+India does not automatically divide property equally upon divorce.
+
+Ownership generally depends on whose name the property is registered in.
+
+Jointly owned property may be divided by agreement or court order.
+
+A wife has a right to claim maintenance but not automatic ownership of husband's property unless legally transferred.
+
+
+================ CYBERCRIME & ONLINE FRAUD =================
+
+Cybercrime includes online fraud, identity theft, hacking, and cyber harassment.
+
+Victims of cybercrime may file complaints at the nearest police station or through the National Cyber Crime Reporting Portal.
+
+Online financial fraud should be reported immediately to the bank and cybercrime authorities.
+
+IT Act, 2000 governs cyber offences in India.
+
+Cyber stalking and online harassment are punishable offences.
+
+
+================ CONSUMER RIGHTS =================
+
+Consumers have rights under the Consumer Protection Act, 2019.
+
+A consumer may file a complaint for defective goods, deficient services, unfair trade practices, or overcharging.
+
+Consumer complaints may be filed before District, State, or National Consumer Commissions depending on claim amount.
+
+Online consumer complaints may be filed through the e-Daakhil portal.
+
+Compensation may include refund, replacement, or damages.
+
+
+================ CHEQUE BOUNCE =================
+
+Section 138 of the Negotiable Instruments Act deals with cheque bounce due to insufficient funds.
+
+A legal notice must be sent within 30 days of receiving bank memo of dishonour.
+
+The drawer must make payment within 15 days of receiving legal notice.
+
+If payment is not made, a complaint may be filed before the Magistrate within the prescribed time.
+
+Cheque bounce is a criminal offence and may result in fine or imprisonment.
